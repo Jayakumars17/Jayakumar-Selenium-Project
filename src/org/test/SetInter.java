@@ -19,6 +19,7 @@ public class SetInter {
 		d.add('A');
 		d.add('a');
 		d.add('E');
+		d.add('t');
 		System.out.println(d);
 		Set<Character> e=new TreeSet();
 		e.addAll(c);
